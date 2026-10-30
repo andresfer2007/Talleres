@@ -1775,3 +1775,35 @@ Run with -Ydebug-unpickling to see full stack trace. (full report at: "/workspac
   scalac -help  gives more information
 Oct 16, 2026 1:19:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.10.16 14:00:22 INFO  Shutting down server
+2026.10.16 14:00:22 INFO  Memory monitor stopped
+2026.10.16 14:00:22 INFO  shutting down Metals
+2026.10.16 14:00:22 INFO  Shut down connection with build server.
+2026.10.16 14:00:22 INFO  Exiting server
+2026.10.16 14:31:18 INFO  Started: Metals version 1.6.9 in folders '/workspaces/Talleres' for client Visual Studio Code 1.142.0.
+2026.10.16 14:31:18 INFO  Memory monitor started
+2026.10.16 14:31:20 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.16 14:31:20 WARN  no build tool detected in workspace '/workspaces/Talleres'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.10.16 14:31:20 WARN  Build server is not auto-connectable.
+2026.10.16 15:06:36 INFO  Shutting down server
+2026.10.16 15:06:36 INFO  Memory monitor stopped
+2026.10.16 15:06:36 INFO  shutting down Metals
+2026.10.16 15:06:36 INFO  Exiting server
+2026.10.30 12:30:25 INFO  Started: Metals version 1.6.9 in folders '/workspaces/Talleres' for client Visual Studio Code 1.144.0.
+2026.10.30 12:30:25 INFO  Memory monitor started
+2026.10.30 12:30:27 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.30 12:30:27 WARN  no build tool detected in workspace '/workspaces/Talleres'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.10.30 12:30:28 WARN  Build server is not auto-connectable.
+2026.10.30 13:57:21 INFO  Shutting down server
+2026.10.30 13:57:21 INFO  Memory monitor stopped
+2026.10.30 13:57:21 INFO  shutting down Metals
+2026.10.30 13:57:21 INFO  Exiting server
+2026.10.30 14:13:04 INFO  Started: Metals version 1.6.9 in folders '/workspaces/Talleres' for client Visual Studio Code 1.144.0.
+2026.10.30 14:13:04 INFO  Memory monitor started
+2026.10.30 14:13:07 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.30 14:13:07 WARN  no build tool detected in workspace '/workspaces/Talleres'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.10.30 14:13:08 WARN  Build server is not auto-connectable.
+Oct 30, 2026 2:13:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 30, 2026 2:26:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
